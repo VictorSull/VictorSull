@@ -2,7 +2,7 @@
 
 Meu nome é Victor
 
-- Estou estudando no Alura 🅰️
+- Estou estudando no [Alura](https://www.alura.com.br) 🅰️
 - estou aprendendo JavaScript 👨‍💻
 - E é muito maneiro 😎
 
