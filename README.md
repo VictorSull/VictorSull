@@ -1,12 +1,12 @@
 ### Fala tropa 👋
 
-Meu nome é Victor
+Meu nome é Victor Sullivan
 
 - Estou estudando no [Alura](https://www.alura.com.br) 🅰️
 - estou aprendendo JavaScript 👨‍💻
 - E é muito maneiro 😎
 
-###Você pode entrar em contato comigo 📫
+### Você pode entrar em contato comigo 📫
 
 00001115081391sp@al.educacao.sp.gov.br
 
